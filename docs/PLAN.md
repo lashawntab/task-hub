@@ -30,12 +30,12 @@ Shared tooling, environments, and overall product scaffolding.
 - [x] Decide on target platforms (web/mobile)  
 - [x] Define MVP platform  
 - [x] Choose tech stack and document why each was selected  
-- [ ] Define folder structure  
+- [x] Define folder structure  
 - [ ] Initialize project with chosen stack  
 - [ ] Set up linting, Prettier, and Husky  
 - [ ] Create `.env.example` file  
 - [ ] Add unit tests (Jest)  
-- [ ] Deploy app (Vercel, Render, Fly.io, or Netlify)  
+- [ ] Deploy app (Render)  
 - [ ] Set up CI/CD (GitHub Actions, Vercel preview)  
 - [ ] Configure environment variables  
 - [ ] Add custom domain (optional)  
