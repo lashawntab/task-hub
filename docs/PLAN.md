@@ -12,12 +12,13 @@ Focuses on user-facing design and interaction.
 
 ### Backend / API / Data
 Core logic, storage, and API-level responsibilities.
-
+  
 - [ ] Define authentication strategy  
 - [ ] Set up database in production (Supabase / Railway)  
 - [ ] Add database schema (Prisma)  
 - [ ] Add seed script for development data  
-- [ ] Add API documentation (Swagger or Markdown)  
+- [ ] Add API documentation (Swagger or Markdown)
+- [ ] Define APIs and data pipelines
 
 ### Platform / DevOps / Cross-Cutting Concerns
 Shared tooling, environments, and overall product scaffolding.
@@ -28,7 +29,7 @@ Shared tooling, environments, and overall product scaffolding.
 - [x] Define user goals  
 - [x] Decide on target platforms (web/mobile)  
 - [x] Define MVP platform  
-- [ ] Choose tech stack and document why each was selected  
+- [x] Choose tech stack and document why each was selected  
 - [ ] Define folder structure  
 - [ ] Initialize project with chosen stack  
 - [ ] Set up linting, Prettier, and Husky  
@@ -44,3 +45,4 @@ Shared tooling, environments, and overall product scaffolding.
 - [ ] Capture tasks quickly
 - [ ] See daily priorities
 - [ ] Automatic categorization of tasks
+- [ ] Visualize completed tasks in isolation from remaining
