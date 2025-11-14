@@ -9,7 +9,8 @@ Focuses on user-facing design and interaction.
 
 - [x] Create wireframes for user flow  
 - [ ] Add integration tests (Playwright / Cypress)  
-- [ ] Update favicon.ico  
+- [ ] Update favicon.ico
+- [ ] Assessibility  
 
 ### Backend / API / Data
 Core logic, storage, and API-level responsibilities.

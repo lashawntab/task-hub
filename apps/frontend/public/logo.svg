@@ -1,0 +1,27 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background checkbox -->
+  <rect
+    x="8"
+    y="8"
+    width="48"
+    height="48"
+    rx="10"
+    ry="10"
+    fill="currentColor"
+  />
+
+  <!-- Checkmark -->
+  <path
+    d="M22 33 L28 39 L42 25"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>

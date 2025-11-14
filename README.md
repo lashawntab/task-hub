@@ -25,5 +25,8 @@ Layer                                | Technology                         | Purp
 | **AI Integration**        | **OpenAI API (Node SDK)**          | Smart task suggestions or summaries          | To support AI powered workflows       |
 | **Version Control**                  | **Git + GitHub**                   | Source control and portfolio visibility      | Standard practice                                          |
 
+**Documentation**  
+- [Frontend README](apps/frontend/README.md) - Frontend setup and development guide
+
 **UX design**  
 Lo-fi wireframe:  https://www.figma.com/make/5eAzamI2XJLJ3Ub47xR1dN/Task-Organizer-Wireframe?node-id=0-4&t=m3Mw5W6N24p2mgna-0
