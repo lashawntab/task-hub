@@ -7,8 +7,9 @@ This file tracks progress across all phases and modules.
 ### Frontend / UX
 Focuses on user-facing design and interaction.
 
-- [ ] Create wireframes for user flow  
+- [x] Create wireframes for user flow  
 - [ ] Add integration tests (Playwright / Cypress)  
+- [ ] Update favicon.ico  
 
 ### Backend / API / Data
 Core logic, storage, and API-level responsibilities.
@@ -45,4 +46,5 @@ Shared tooling, environments, and overall product scaffolding.
 - [ ] Capture tasks quickly
 - [ ] See daily priorities
 - [ ] Automatic categorization of tasks
-- [ ] Visualize completed tasks in isolation from remaining
+- [ ] Visualize completed tasks statistics in isolation from remaining
+- [ ] Automatic prioritization of tasks
